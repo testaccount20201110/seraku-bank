@@ -1,0 +1,4 @@
+function kotae(){
+	var yama = "ïxéméR";
+	alert(yama);
+}
