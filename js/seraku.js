@@ -1,5 +1,5 @@
 //slide------------------------------------------------------------
-windows onload = function(){
+window.onload = function(){
 //$(function(){
 
 
