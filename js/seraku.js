@@ -32,7 +32,7 @@ Timer =setInterval(function(){
                          page ++;
                          changePage();
           };
-     },5000);
+     },5000); 
 }
 //（７）～秒間隔でイメージ切換の停止設定
 function stopTimer(){
